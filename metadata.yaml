@@ -1,0 +1,29 @@
+_repo: Poesie-e-novelle-in-versi_9642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontana, Ferdinando
+    aliases:
+    - Fontana, Fernando
+    - Fontana, F. (Ferdinando)
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '3111'
+    url: http://www.gutenberg.org/2009/agents/3111
+    wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Fontana
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9642'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Poesie e novelle in versi
+url: http://www.gutenberg.org/ebooks/9642
